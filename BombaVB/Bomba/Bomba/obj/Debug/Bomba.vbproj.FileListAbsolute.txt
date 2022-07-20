@@ -1,0 +1,11 @@
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\15\BombaVB\Bomba\Bomba\bin\Debug\Bomba.exe.config
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\15\BombaVB\Bomba\Bomba\bin\Debug\Bomba.exe
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\15\BombaVB\Bomba\Bomba\bin\Debug\Bomba.pdb
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\15\BombaVB\Bomba\Bomba\bin\Debug\Bomba.xml
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\15\BombaVB\Bomba\Bomba\obj\Debug\Bomba.vbprojAssemblyReference.cache
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\15\BombaVB\Bomba\Bomba\obj\Debug\Bomba.frmBombaVB.resources
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\15\BombaVB\Bomba\Bomba\obj\Debug\Bomba.Resources.resources
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\15\BombaVB\Bomba\Bomba\obj\Debug\Bomba.vbproj.GenerateResource.cache
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\15\BombaVB\Bomba\Bomba\obj\Debug\Bomba.exe
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\15\BombaVB\Bomba\Bomba\obj\Debug\Bomba.xml
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\15\BombaVB\Bomba\Bomba\obj\Debug\Bomba.pdb

@@ -1,0 +1,201 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Bomba
+</name>
+</assembly>
+<members>
+<member name="T:Bomba.My.Resources.Resources">
+<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+<member name="P:Bomba.My.Resources.Resources.ResourceManager">
+<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member>
+<member name="P:Bomba.My.Resources.Resources.Culture">
+<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member>
+<member name="P:Bomba.My.Resources.Resources._1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bomba.My.Resources.Resources._10">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bomba.My.Resources.Resources._11">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bomba.My.Resources.Resources._12">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bomba.My.Resources.Resources._13">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bomba.My.Resources.Resources._14">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bomba.My.Resources.Resources._15">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bomba.My.Resources.Resources._16">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bomba.My.Resources.Resources._17">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bomba.My.Resources.Resources._18">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bomba.My.Resources.Resources._19">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bomba.My.Resources.Resources._2">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bomba.My.Resources.Resources._20">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bomba.My.Resources.Resources._21">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bomba.My.Resources.Resources._22">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bomba.My.Resources.Resources._23">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bomba.My.Resources.Resources._24">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bomba.My.Resources.Resources._25">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bomba.My.Resources.Resources._26">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bomba.My.Resources.Resources._27">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bomba.My.Resources.Resources._28">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bomba.My.Resources.Resources._29">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bomba.My.Resources.Resources._3">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bomba.My.Resources.Resources._30">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bomba.My.Resources.Resources._4">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bomba.My.Resources.Resources._5">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bomba.My.Resources.Resources._6">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bomba.My.Resources.Resources._7">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bomba.My.Resources.Resources._8">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bomba.My.Resources.Resources._9">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bomba.My.Resources.Resources.audio">
+<summary>
+  Busca un recurso adaptado de tipo System.IO.UnmanagedMemoryStream similar a System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:Bomba.My.Resources.Resources.bojiman">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bomba.My.Resources.Resources.explosion">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bomba.My.Resources.Resources.fondo_png">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bomba.My.Resources.Resources.rola">
+<summary>
+  Busca un recurso adaptado de tipo System.IO.UnmanagedMemoryStream similar a System.IO.MemoryStream.
+</summary>
+</member>
+</members>
+</doc>
